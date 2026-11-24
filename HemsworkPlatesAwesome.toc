@@ -1,0 +1,16 @@
+## Interface: 30300
+## Title: HemsworkPlates |cff66ccffAwesome|r
+## Notes: Nameplates estilo WotLK Classic para arenas, con las mejoras de Awesome WotLK (castbar y debuffs en todas las placas). Opciones: /hms
+## Author: Hemswork
+## Version: 1.0.0
+## SavedVariables: HemsworkPlatesAwesomeDB
+## OptionalDeps: LibSharedMedia-3.0, Gladius
+
+Locale\Locale.lua
+Core\Version.lua
+Core\Core.lua
+Modules\Debuffs.lua
+Data\GCDSpells.lua
+Data\GCDBuffs.lua
+Modules\GCD.lua
+Options\Options.lua
